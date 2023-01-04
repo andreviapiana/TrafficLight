@@ -3,15 +3,15 @@
 </p>
 
 
-Este é o resultado de um estudo de React.js.
+Este é o resultado de um estudo de React.js. <br>
 A versão mais atualizada deste repositório é a V2. Mantive a versão original junto para sanar possíveis dúvidas pessoais que venham a surgir.
 
 ___
 
 ## 💻 Sobre
-A ideia deste projeto é criar uma aplicação semelhante a um sinal de trânsito, com uma luz vermelha, uma amarela e uma verde, e deixá-las funcionais quando o usuário realizar o clique.
-A Versão 2 além de mais organizada, conta com um extra, que é a automatização da mudança de cores, permitindo que elas sejam alteradas tanto de forma manual quanto automática.
-O estudo reforça o uso do JavaScript e do React por meio do uso de estados.
+A ideia deste projeto é criar uma aplicação semelhante a um sinal de trânsito, com uma luz vermelha, uma amarela e uma verde, e deixá-las funcionais quando o usuário realizar o clique.<br>
+A Versão 2 além de mais organizada, conta com um extra, que é a automatização da mudança de cores, permitindo que elas sejam alteradas tanto de forma manual quanto automática.<br>
+O estudo reforça o uso do JavaScript e do React por meio do uso de estados.<br>
 A aplicação já está dividida em componentes para facilitar a manutenção, e deste modo permite a adição de mais luzes de forma rápida e fácil. Além disso, a aplicação já está adaptada para a navegação pelo teclado.
 
 ___
@@ -19,7 +19,7 @@ ___
 ## 🎨 Layout
 A página funcionando em formato desktop é vista na imagem abaixo:
 
-![luzes](https://user-images.githubusercontent.com/106932234/209553684-0f0c1999-6ac9-402b-87eb-5a9950364ff1.gif)
+![farol](https://user-images.githubusercontent.com/106932234/210561083-21350017-69e2-431b-b05b-879299b6bb5e.gif)
 
 ___
 
